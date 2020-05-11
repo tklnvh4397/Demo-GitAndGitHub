@@ -1,4 +1,5 @@
-Hello friend
+Hello friend 
+Good morning
 My name is Hung
 Nice to meet you!
 Goodbye
